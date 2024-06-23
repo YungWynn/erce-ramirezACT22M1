@@ -26,5 +26,5 @@ function addToCart(productName, productPrice) {
 }
 
 function handleLogout() {
-    window.location.href = 'MainLogin.html';
+    window.location.href = 'index.html';
 }
