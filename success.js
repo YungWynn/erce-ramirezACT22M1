@@ -14,9 +14,8 @@ function handleLogin(event) {
     }
 }
 function handleLogout() {
-    // Perform logout actions - Clear session, reset UI, etc.
-    // For demonstration, simply redirecting to index.html
-    window.location.href = 'MainLogin.html'; // Redirect to login page
+    
+    window.location.href = 'index.html'; 
 }
 let totalAmount = 0;
 
